@@ -5,14 +5,19 @@
 
 ---
 
-# Team Deatails:
- **Mentor** : Anupama Angadi, Email: aangadi@gitam.edu
- 
- **Leader** : Gompa Harshit Abhinav, Roll No:VU22CSEN0100601, Mail:hgompa2@gitam.in
- 
- **Member2** : B.Abhinav Reddy, Roll no: VU22CSEN030018, Mail:abonthu@gitam.in
- 
- **Member3** : Challa Sai Lalasa, Roll no: VU22CSEN0100812, Mail: schalla12@gitam.in
+# Team Details:
+--
+
+- **Mentor**: **Anupama Angadi**, Email: **aangadi@gitam.edu**
+
+- **Leader**: **Gompa Harshit Abhinav**, Roll No: **VU22CSEN0100601**, Email: **hgompa2@gitam.in**
+
+- **Member 2**: **B. Abhinav Reddy**, Roll No: **VU22CSEN030018**, Email: **abonthu@gitam.in**
+
+- **Member 3**: **Challa Sai Lalasa**, Roll No: **VU22CSEN0100812**, Email: **schalla12@gitam.in**
+
+---
+
 ---
 
 ## Video walkthrough of the project : https://screenrec.com/share/G9bomHyFrZ
