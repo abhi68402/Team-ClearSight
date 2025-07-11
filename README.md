@@ -13,9 +13,9 @@ In modern virtual communication, poor video clarity due to limited bandwidth or 
 
 ## Problem Statement
 
-> **Objective**: Enhance image sharpness during video conferencing by reducing blurriness caused by compression and network issues.
+ **Objective**: Enhance image sharpness during video conferencing by reducing blurriness caused by compression and network issues.
 
-> **Approach**: Use a teacher-student KD technique to distill knowledge from a computationally expensive model into a real-time lightweight model.
+ **Approach**: Use a teacher-student KD technique to distill knowledge from a computationally expensive model into a real-time lightweight model.
 
 ---
 
