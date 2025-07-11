@@ -1,7 +1,7 @@
 # Team-ClearSight
-#Image Sharpening Using Knowledge Distillation for Video Conferencing
+# Image Sharpening Using Knowledge Distillation for Video Conferencing
 
-> A high-performance image sharpening model for real-time video conferencing using a Teacher-Student Knowledge Distillation framework.
+ A high-performance image sharpening model for real-time video conferencing using a Teacher-Student Knowledge Distillation framework.
 
 ---
 
