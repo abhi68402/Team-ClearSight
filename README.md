@@ -6,7 +6,6 @@
 ---
 
 # Team Details:
---
 
 - **Mentor**: **Anupama Angadi**, Email: **aangadi@gitam.edu**
 
@@ -15,8 +14,6 @@
 - **Member 2**: **B. Abhinav Reddy**, Roll No: **VU22CSEN030018**, Email: **abonthu@gitam.in**
 
 - **Member 3**: **Challa Sai Lalasa**, Roll No: **VU22CSEN0100812**, Email: **schalla12@gitam.in**
-
----
 
 ---
 
