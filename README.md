@@ -7,7 +7,7 @@
 
 # Team Details:
 
-- **Mentor**: **Anupama Angadi**, Email: **aangadi@gitam.edu**
+- **Mentor**: **Anupama Angadi**, Email: **anangadi@gitam.edu**
 
 - **Leader**: **Gompa Harshit Abhinav**, Roll No: **VU22CSEN0100601**, Email: **hgompa2@gitam.in**
 
