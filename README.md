@@ -41,5 +41,7 @@ In modern virtual communication, poor video clarity due to limited bandwidth or 
 - Optimized for speed and real-time inference
 
 ## Results
- | ![](sample.png) | ![](sample2.png) |
+  Image1                   | Image2                 |
+|--------------------------|------------------------|
+| ![](sample.jpg) | ![](sample2.jpg) |
 
