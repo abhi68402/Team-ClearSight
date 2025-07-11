@@ -19,6 +19,9 @@
 In modern virtual communication, poor video clarity due to limited bandwidth or network noise can degrade user experience. This project addresses this challenge by developing an ultra-lightweight image sharpening model capable of operating in real-time (30–60 FPS) while retaining the performance of a heavier pre-trained teacher model. The solution employs a **Knowledge Distillation (KD)** framework where a **SwinIR** model serves as the teacher, and a compact **IMDN** model is trained to replicate its sharpening capabilities.
 
 ---
+## Video walkthrough of the project : https://screenrec.com/share/G9bomHyFrZ
+
+---
 
 ## Problem Statement:
 
