@@ -43,5 +43,5 @@ In modern virtual communication, poor video clarity due to limited bandwidth or 
 ## Results
   Image1                   | Image2                 |
 |--------------------------|------------------------|
-| ![](sample.jpg) | ![](sample2.jpg) |
+| ![](sample.png)          | ![](sample2.png)       |
 
