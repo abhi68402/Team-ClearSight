@@ -40,3 +40,5 @@ In modern virtual communication, poor video clarity due to limited bandwidth or 
 - Lightweight CNN-based model with multi-distillation modules
 - Optimized for speed and real-time inference
 
+## Results
+
