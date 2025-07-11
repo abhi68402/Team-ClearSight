@@ -5,7 +5,7 @@
 
 ---
 
-# Team Deatails
+# Team Deatails:
  **Mentor** Anupama Angadi, Email: aangadi@gitam.edu
  
  **Leader** Gompa Harshit Abhinav, Roll No:VU22CSEN0100601, Mail:hgompa2@gitam.in
@@ -14,13 +14,13 @@
  
  **Member3** Challa Sai Lalasa, Roll no: VU22CSEN0100812, Mail: schalla12@gitam.in
 
-## Abstract
+## Abstract:
 
 In modern virtual communication, poor video clarity due to limited bandwidth or network noise can degrade user experience. This project addresses this challenge by developing an ultra-lightweight image sharpening model capable of operating in real-time (30–60 FPS) while retaining the performance of a heavier pre-trained teacher model. The solution employs a **Knowledge Distillation (KD)** framework where a **SwinIR** model serves as the teacher, and a compact **IMDN** model is trained to replicate its sharpening capabilities.
 
 ---
 
-## Problem Statement
+## Problem Statement:
 
  **Objective**: Enhance image sharpness during video conferencing by reducing blurriness caused by compression and network issues.
 
@@ -28,7 +28,7 @@ In modern virtual communication, poor video clarity due to limited bandwidth or 
 
 ---
 
-##  Model Architecture
+##  Model Architecture:
 
 ### 🔹 Teacher Model: [SwinIR (Swin Transformer for Image Restoration)](https://github.com/JingyunLiang/SwinIR)
 
@@ -41,4 +41,5 @@ In modern virtual communication, poor video clarity due to limited bandwidth or 
 - Optimized for speed and real-time inference
 
 ## Results
+ | ![](sample.png) | ![](sample2.png)
 
