@@ -11,7 +11,7 @@
 
 - **Leader**: **Gompa Harshit Abhinav**, Roll No: **VU22CSEN0100601**, Email: **hgompa2@gitam.in**
 
-- **Member 2**: **B. Abhinav Reddy**, Roll No: **VU22CSEN030018**, Email: **abonthu@gitam.in**
+- **Member 2**: **B. Abhinav Reddy**, Roll No: **VU22CSEN030018**, Email: **abonthu2@gitam.in**
 
 - **Member 3**: **Challa Sai Lalasa**, Roll No: **VU22CSEN0100812**, Email: **schalla12@gitam.in**
 
